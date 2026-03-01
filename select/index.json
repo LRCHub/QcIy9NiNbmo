@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Bad Blood",
+  "base_artist": "Taylor Swift",
+  "createdAt": "2026-03-01T04:30:51.067686Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "ABC",
+      "has_synced": true,
+      "path": "select/01_Bad_Blood_ABC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Culture Club & Boy George",
+      "has_synced": true,
+      "path": "select/02_Bad_Blood_Culture_Club_&_Boy_George.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Culture Club",
+      "has_synced": true,
+      "path": "select/03_Bad_Blood_Culture_Club.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_Bad_Blood_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Black Rebel Motorcycle Club",
+      "has_synced": true,
+      "path": "select/05_Bad_Blood_Black_Rebel_Motorcycle_Club.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Radical Face",
+      "has_synced": false,
+      "path": "select/06_Bad_Blood_Radical_Face.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Aubrey Logan",
+      "has_synced": true,
+      "path": "select/07_Bad_Blood_Scott_Bradlee's_Postmodern_Jukebox_feat._Aubrey_Logan.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bad Blood - Live",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Aubrey Logan",
+      "has_synced": false,
+      "path": "select/08_Bad_Blood_-_Live_Scott_Bradlee's_Postmodern_Jukebox_feat._Aubrey_Logan.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bad Blood (Live)",
+      "artist": "Scott Bradlee's Postmodern Jukebox Aubrey Logan",
+      "has_synced": false,
+      "path": "select/09_Bad_Blood_(Live)_Scott_Bradlee's_Postmodern_Jukebox_Aubrey_Logan.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Owen",
+      "has_synced": false,
+      "path": "select/10_Bad_Blood_Owen.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Europe",
+      "has_synced": true,
+      "path": "select/11_Bad_Blood_Europe.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "With Bad Blood",
+      "artist": "Death In June",
+      "has_synced": true,
+      "path": "select/12_With_Bad_Blood_Death_In_June.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bad Blood",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": true,
+      "path": "select/13_Bad_Blood_Yngwie_Malmsteen.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bad Blood - Alternate Mix",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/14_Bad_Blood_-_Alternate_Mix_Ministry.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bad Blood (Alternate Mix)",
+      "artist": "Ministry",
+      "has_synced": false,
+      "path": "select/15_Bad_Blood_(Alternate_Mix)_Ministry.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bad Blood",
+      "artist": "Taylor Swift",
+      "has_synced": false,
+      "path": "select/pl_01_Bad_Blood_Taylor_Swift.txt"
+    }
+  ]
+}
